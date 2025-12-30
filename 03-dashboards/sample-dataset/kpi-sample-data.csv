@@ -1,0 +1,4 @@
+month,domain,kpi,value,target,unit,owner,notes
+2026-01,GRC,Policies Reviewed On Time,92,95,percent,GRC,baseline
+2026-01,VM,Critical Vulns Remediated Within SLA,78,90,percent,VM,needs focus
+2026-01,IR,MTTR (hours),14,12,hours,IR,slightly above target
